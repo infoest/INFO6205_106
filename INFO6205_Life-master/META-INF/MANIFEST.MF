@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: jenetics
+ProjectName: Jenetics
+Automatic-Module-Name: io.jenetics.base
+Implementation-Version: 5.1.0
+Build-Timestamp: 2019-11-18 20:30
+Built-By: fwilhelm
+Project: jenetics
+Project-Version: 5.1.0
+Version: 5.1.0
+Maintainer: Franz WilhelmstÃ¶tter
+Implementation-Vendor: Jenetics
+Build-OS: Linux amd64 5.3.0-23-generic
+Implementation-URL: http://jenetics.io
+Created-By: Gradle 6.0
+Build-Jdk: OpenJDK 64-Bit Server VM (AdoptOpenJDK 25.222-b10)
+
